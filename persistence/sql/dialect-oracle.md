@@ -2,7 +2,7 @@
 title: Oracle dialect
 component: SqlPersistence
 related:
-reviewed: 2018-01-02
+reviewed: 2019-10-14
 versions: "[2,)"
 redirects:
  - nservicebus/sql-persistence/oracle-caveats

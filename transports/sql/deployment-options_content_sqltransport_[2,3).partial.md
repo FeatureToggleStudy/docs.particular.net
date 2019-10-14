@@ -1,4 +1,4 @@
-## Default
+## Single-instance
 
 include: deployment-options-default
 

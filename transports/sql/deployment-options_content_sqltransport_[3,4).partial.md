@@ -1,4 +1,4 @@
-## Default
+## Single-schema
 
 include: deployment-options-default
 
